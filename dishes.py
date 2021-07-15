@@ -47,3 +47,5 @@ while inSink == 1:         # if there are dishes in sink, finds out wether or no
     if inSink == 0:
         print("The sink is empty.\nGood job.")
     quit()
+
+    #QMaury
